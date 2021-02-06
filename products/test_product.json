@@ -1,0 +1,10 @@
+{
+	"name": "test product",
+	"price_alert": 1000,
+	"price_currency": "$",
+	"urls":[
+		"https://www.walmart.com/ip/MSI-Video-Card-G208TV11-NVIDIA-GeForce-RTX-2080-Ti-VENTUS-11GB-11GB-GDDR6-Retail/607685657",
+		"https://www.walmart.com/ip/TCL-65-Class-4K-UHD-LED-Roku-Smart-TV-HDR-4-Series-65S425/809029778?wpa_bd=&wpa_pg_seller_id=F55CDC31AB754BB68FE0B39041159D63&wpa_ref_id=wpaqs:7M0R6xg6Moz0jvEsWqVo_DUFxD3t41nXgynA0yWOSfBIYPgQAsp6jmUmkwzZFwGZ9YYJoTUwhNTE3zkULQJUAwps_EKpVlzjCCjU_k84V_HRkYlslfIfROAOU5A9hyO23aFZCMVRxXNGYPCn89XFvbyQCmdMjp4fELx5sYeRcUn_ekyPAtcMMSPCDeiW8CQplNjY_3WoYkVJIUxhnI3EXQ&wpa_tag=&wpa_aux_info=&wpa_pos=1&wpa_plmt=1145x1145_T-C-IG_TI_1-6_HL-INGRID-GRID-NY&wpa_aduid=f510c811-9f01-4515-ae40-cc4c667ceedf&wpa_pg=browse&wpa_pg_id=3944_1060825_2489948_3421074&wpa_st=65%2BInch%2BTVs&wpa_tax=3944_1060825_2489948_3421074&wpa_bucket=__bkt__",
+		"https://www.walmart.com/ip/VIZIO-65-Class-4k-UHD-LED-SmartCast-Smart-TV-HDR-V-Series-V655-H/316226539"
+	]
+}
